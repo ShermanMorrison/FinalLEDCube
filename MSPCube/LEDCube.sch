@@ -5582,9 +5582,6 @@ Source: AVX .. aphvc.pdf</description>
 </nets>
 </sheet>
 </sheets>
-<errors>
-<approved hash="113,1,24.7447,-94.488,C1,,,,,"/>
-</errors>
 </schematic>
 </drawing>
 </eagle>
